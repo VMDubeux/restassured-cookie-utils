@@ -1,4 +1,3 @@
-```markdown
 # REST Assured Cookie Utils
 
 Biblioteca utilitária em Java 8+ para simplificar a criação, gerenciamento, validação e injeção de cookies em testes de API automatizados com **REST Assured**.
