@@ -4,11 +4,10 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertNotNull;
 
-public class CookieMapTest {
+public class CookieTest {
     @Test
     public void createCookieMap() {
-        CookieMap cookieMap = new CookieMap();
-
-        assertNotNull(cookieMap);
+        CookieManagement cookieManagement = new CookieManagement();
+        assertNotNull(cookieManagement);
     }
 }
